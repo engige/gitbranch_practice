@@ -19,3 +19,22 @@ Git Bash collaboration introduction:
      - `git log`: View commit history.
 
 These basics form the foundation for version control and command-line navigation that are critical for software developers.
+
+The "Bash Shell" content:
+
+1. **Bash Shell Overview**:
+   - **Command Line Interface (CLI)**: Provides a low-level way to interact with your computer, bypassing the graphical interface.
+   - **Navigation**: Learn to navigate directories and files using Bash shell commands, essential for programming and data science workflows.
+
+2. **Basic Commands**:
+   - **`pwd` (Print Working Directory)**: Displays your current directory.
+   - **`cd` (Change Directory)**: Navigate through directories. Use `cd` to go home, `cd ..` to move up one level, or `cd ~/Documents` to access specific folders.
+   - **`ls` (List Files)**: Lists all files in the current directory.
+
+3. **Tab Completion**: Speeds up typing by automatically completing file and directory names.
+
+4. **Additional Features**:
+   - **Workflow Shortcuts**: `cmd+tab` for Mac and `alt+tab` for Windows to switch between applications quickly.
+   - **Resources**: Links to further reading on bash commands for deeper understanding.
+
+This lesson is designed to introduce basic Bash shell commands to help users navigate their file system and prepare for Git usage.
