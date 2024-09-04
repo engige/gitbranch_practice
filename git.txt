@@ -38,3 +38,28 @@ The "Bash Shell" content:
    - **Resources**: Links to further reading on bash commands for deeper understanding.
 
 This lesson is designed to introduce basic Bash shell commands to help users navigate their file system and prepare for Git usage.
+
+"Git Version Control 101" content:
+
+1. **Purpose of Version Control**:
+   - Version control allows tracking multiple versions of a project, enabling easy rollback to previous states.
+   - It helps in collaboration, backup, and experimentation without risking the codebase.
+
+2. **Advantages of Version Control**:
+   - Facilitates easy reversion to a previous working version.
+   - Acts as a backup for your work.
+   - Enables collaboration by allowing multiple users to work on the same project simultaneously.
+
+3. **Types of Version Control Systems**:
+   - **Local Version Control**: Stores all project data on a single local machine.
+   - **Centralized Version Control**: Uses a server-based repository accessible by multiple users, though it requires network connectivity.
+   - **Distributed Version Control**: Each user has a full copy of the repository and can work independently, pushing changes to a central server when needed.
+
+4. **Introduction to Git**:
+   - Git is a distributed version control system widely used in the industry.
+   - Allows for independent work, merging changes, and keeping the full history of the project locally.
+
+5. **GitHub**:
+   - GitHub is a remote repository service built to work with Git, making it easy to collaborate and host projects online.
+
+This lesson introduces version control concepts and why Git is a preferred tool for managing code in collaborative environments.
